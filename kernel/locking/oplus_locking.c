@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/synchronize/oplus_locking.c
+../../../modules-sm6375/oplus/kernel/synchronize/oplus_locking.c

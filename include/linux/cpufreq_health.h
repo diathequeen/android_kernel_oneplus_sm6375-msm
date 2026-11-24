@@ -1,1 +1,1 @@
-../../kernel/oplus_cpu/cpufreq_health/cpufreq_health.h
+../../../modules-sm6375/oplus/kernel/cpu/cpufreq_health/cpufreq_health.h

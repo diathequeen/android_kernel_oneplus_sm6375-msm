@@ -1,1 +1,1 @@
-../../../../../vendor/oplus/kernel/touchpanel/touchpanel_notify/touchpanel_event_notify.h
+../../../../modules-sm6375/oplus/kernel/touchpanel/touchpanel_notify/touchpanel_event_notify.h
